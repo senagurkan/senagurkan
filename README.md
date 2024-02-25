@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a 4th-year computer engineering student. I develop web projects with PHP and am striving to improve my skills in iOS mobile development.
 
 <!--
 **senagurkan/senagurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
