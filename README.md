@@ -1,6 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 I'm a 4th-year computer engineering student. I develop web projects with PHP and am striving to improve my skills in iOS mobile development.
-
+-->
+Hi, I'm Sena
+- I'm a 4th-year computer engineering student.
+- Currently working on Web projects with PHP.
+- I'm working on developing myself in the iOS Development.
 <!--
 **senagurkan/senagurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
