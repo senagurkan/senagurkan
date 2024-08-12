@@ -20,7 +20,7 @@
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/dotnetcore-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)<br/>
+![.NET Core](https://img.shields.io/badge/dotnetcore-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
