@@ -5,7 +5,6 @@
 🔭 I’m currently working with PHP, Laravel, and .NET Core, focusing on Full Stack Development.<br/>
 🌱 I’m currently learning iOS development and working on building iOS applications.<br/>
 📫 How to reach me **senagurkann@gmail.com** <br/>
-👩🏻‍💻 Sharing my journey and experiences in tech<br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senagurkan&show_icons=true&locale=en&layout=compact" alt="senagurkan" /></p>
