@@ -5,10 +5,11 @@
 🔭 I’m currently working with PHP, Laravel, and .NET Core, focusing on Full Stack Development.<br/>
 🌱 I’m currently learning iOS development and working on building iOS applications.<br/>
 📫 How to reach me **senagurkann@gmail.com** <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senagurkan&label=Profile%20views&color=0e75b6&style=flat" alt="senagurkan" /> </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=senagurkan&show_icons=true&locale=en&layout=compact" alt="senagurkan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senagurkan&" alt="senagurkan" /></p>
 
 <h2> 💻 Tech Stack</h2>
